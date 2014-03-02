@@ -1,5 +1,6 @@
 Abe: a free block chain browser for Bitcoin-based currencies.
-https://github.com/bitcoin-abe/bitcoin-abe
+Zetacoin Fork
+https://github.com/zbad405/zetacoin-abe
 
     Copyright(C) 2011,2012,2013 by Abe developers.
     License: GNU Affero General Public License, see the file LICENSE.txt.
@@ -148,5 +149,5 @@ would like to be.
 Forum thread: https://bitcointalk.org/index.php?topic=22785.0
 Newbies: https://bitcointalk.org/index.php?topic=51139.0
 
-Donations appreciated: 1PWC7PNHL1SgvZaN7xEtygenKjWobWsCuf (BTC)
-NJ3MSELK1cWnqUa6xhF2wUYAnz3RSrWXcK (NMC)
+Donations appreciated: 1HLaDgzd6maSFJbSCBC4hToEpGA5BNdN29 (BTC)
+ZZy8BUn3Wt84RvE386vhwb9Lse3ZwJ7rKN (NMC)
